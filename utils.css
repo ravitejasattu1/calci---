@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-col{
+    flex-direction: column;
+}
+#bg-color{
+    background-color: rgb(255, 254, 254);
+    padding: 20px;
+}
+.items-center{
+    align-items: center;
+}

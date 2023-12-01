@@ -1,0 +1,44 @@
+.container .button {
+    background-color: rgb(90, 91, 91);
+    margin:5px;
+}
+#different-color1,
+#different-color2,
+#different-color3,
+#different-color4,
+#different-color5,
+#different-color6,
+#different-color7,
+#different-color8 {
+    background-color: rgb(237, 100, 50);
+}
+html,body {
+    height:100%;
+    width: 100%;
+}
+#calci-display{
+    text-align: right;
+    padding: 10px;
+}
+.button{
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    color: rgb(14, 14, 14);
+}
+.row{
+    margin: 0;
+    background-color: rgb(38,38,38);
+    
+}
+.row input{
+    width: 273px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid rgb(53, 52, 52);
+    border-radius: 7px;
+}
